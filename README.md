@@ -1,6 +1,6 @@
 # Better forecasts, same bad decisions
 
-Code and results for the article *Better Forecasts, Same Bad Decisions* by Hardik Chawla.
+Code and results for the article *Better Forecasts, Same Bad Decisions* 
 
 The study asks one question: **does a more accurate forecast lead to cheaper inventory decisions?** On 4,311 Walmart food products, it did not. The most accurate forecast ranked fifth of six on decision cost. The approach with the least accurate forecast cost 17.1% less.
 
